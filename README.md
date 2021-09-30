@@ -49,4 +49,8 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
   </a>
 </div>
 
+## Projetos
+[![App de Receitas](https://github-readme-stats.vercel.app/api/pin/?username=gbl97&repo=[Main group 32] - Recipes App&show_owner=true)](https://github.com/tryber/sd-010-a-project-recipes-app/pull/368)
+
+
 ![Snake animation](https://github.com/gbl97/gbl97/blob/output/github-contribution-grid-snake.svg)
