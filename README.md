@@ -25,3 +25,8 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
   <img align="center" alt="Gabriel-Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Gabriel-Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 </div>
+
+## Minhas Redes Sociais
+<div><br>
+  <a href="https://www.linkedin.com/in/gabrielpereiraalvesmoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
