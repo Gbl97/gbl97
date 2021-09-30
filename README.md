@@ -1,5 +1,10 @@
 # Olá, eu sou o Gabriel! Seja bem-vindo ao meu perfil! 😁✌️
 
+## Meus contatos
+* Telefone ☎️: (11) 4173-3088
+* Celular 📱: (11) 98508-9484
+* E-mail 📧: g.pereira.a.m@gmail.com
+
 ## Quem sou eu
 Sou formado em Sistemas de Informação, pela universidade Anhembi Morumbi, meu estágio dentro da área foi em suporte técnico nível 2, onde o atendimento era feito presencialmente, realizando o serviço de instalação, configuração, acompanhamento e manutenção de softwares e hardwares, foi um período onde aprendi muito, mas sempre quis migrar para área de desenvolvimento, estou na busca do meu primeiro emprego nesta área e por isso estou na Trybe, uma das maiores instituições de ensino voltada para área de desenvolvimento web do Brasil.
 
