@@ -48,3 +48,5 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbl97&langs_count=7&theme=dark"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/gbl97/gbl97/blob/output/github-contribution-grid-snake.svg)
