@@ -39,6 +39,18 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
   <a href="https://www.facebook.com/gabriel.pereiraalvesmoreira/" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
 </div>
 
+## Projetos
+<div><br>
+ <div>
+   <h3>App de Receitas</h3>
+   <p>Neste projeto em grupo, desenvolvemos um app usando o ecossistema React, Hooks e Redux, onde foi possível ver, buscar, filtrar, favoritar e acompanhar o   processo de preparação de receitas e drinks.</p>
+  <div style="display: inline_block">
+    <a href="https://grupo32-app-de-receitas.herokuapp.com/">Veja o site</a>
+    <a href="https://bit.ly/3BzN8aP">Repositório do Projeto</a>
+  </div>
+ </div>
+</div>
+
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/Gbl97">
