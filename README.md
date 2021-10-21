@@ -57,7 +57,7 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbl97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Gbl97">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbl97&langs_count=7&theme=dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbl97&langs_count=7&theme=dark"/>
   </a>
 </div>
 
