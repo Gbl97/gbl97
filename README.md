@@ -39,7 +39,7 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
   <a href="https://www.facebook.com/gabriel.pereiraalvesmoreira/" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
 </div>
 
-## Projetos 
+<!-- ## Projetos 
 <div><br>
  <div>
    <h3>App de Receitas</h3>
@@ -49,7 +49,7 @@ Estou no 3° módulo da Trybe, o módulo de Back-End, neste módulo estamos apre
     <a href="https://bit.ly/3BzN8aP">Repositório do Projeto</a>
   </div>
  </div>
-</div>
+</div> -->
 
 ## GitHub Stats
 <div align="center">
